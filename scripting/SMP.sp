@@ -2138,10 +2138,10 @@ public Action Ladder5on5SMP(client, cfg)
 	ServerCommand("mp_respawn_on_death_ct								0");
 	ServerCommand("mp_ct_default_melee									weapon_knife");
 	ServerCommand("mp_ct_default_secondary								weapon_hkp2000");
-	ServerCommand("mp_ct_default_primary								""");
+	ServerCommand("mp_ct_default_primary								''");
 	ServerCommand("mp_t_default_melee									weapon_knife");
 	ServerCommand("mp_t_default_secondary								weapon_glock");
-	ServerCommand("mp_t_default_primary								""");
+	ServerCommand("mp_t_default_primary								''");
 	ServerCommand("mp_default_team_winner_no_objective					-1");
 	ServerCommand("mp_autokick 0");
 	ServerCommand("mp_autoteambalance 0");
