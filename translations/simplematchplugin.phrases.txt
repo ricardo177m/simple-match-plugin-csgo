@@ -1,0 +1,52 @@
+"Phrases"
+{
+	"SMP Admin Menu"
+	{
+		"en"	"SMP Admin Menu"
+	}
+
+	"Manual Captain Question"
+	{
+		"en"	"Pick Captains Manually?"
+	}
+
+	"Manual Captain Selection CT"
+	{
+		"en"	"Pick Captain for CT"
+	}
+
+	"Manual Captain Selection T"
+	{
+		"en"	"Pick Captain for T"
+	}
+
+	"Set Team Menu"
+	{
+		"en"	"Player To Move:"
+	}
+
+	"Set Team Select Menu"
+	{
+		"en"	"To Which Team?"
+	}
+
+	"Spec Menu"
+	{
+		"en"	"Player To Move:"
+	}
+
+	"Swap Menu"
+	{
+		"en"	"Swap Player:"
+	}
+
+	"Exchange Players Menu"
+	{
+		"en"	"Exchange Player:"
+	}
+
+	"Exchange Players With Menu"
+	{
+		"en"	"With Player:"
+	}
+}
